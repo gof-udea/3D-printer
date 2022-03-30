@@ -9,3 +9,6 @@ Instructions to operate the 3D printer.
 
 Tips to do a good printing.
 
+Web page to download 3D models: https://www.thingiverse.com/
+
+Web page to create simple 3D models online: https://www.tinkercad.com/
